@@ -7,21 +7,21 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: 'https://K-I-M-J-I-N.github.io'
+url: 'https://kdshim.github.io'
 baseurl: '/'
-author: Jin Kim
+author: Kidong Shim
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: ""
-title: Jin Kim
-name: Jin Kim
-email: jinmerong@gmail.com
-email_full: mailto:jinmerong@gmail.com
+title: Kidong Shim
+name: Kidong Shim
+email: shimkidong@gmail.com
+email_full: mailto:shimkidong@gmail.com
 website: github.io
 website_full: /
-github: https://github.com/K-I-M-J-I-N
+github: https://github.com/kdshim
 twitter: twitter
 tel: +44 0000 000000
 tel_full: tel:+440000000000
